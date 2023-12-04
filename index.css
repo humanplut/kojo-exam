@@ -1,0 +1,39 @@
+.img-group img{
+    display: block;
+}
+.button{
+    border-radius: 2%;
+    background-color: aqua;
+}
+header{
+    background-image: url(1701113072779.jpg);
+    background-size: cover;
+    height: 30vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5%;
+    padding: 5%;
+    font-size: 1.5rem;
+}
+header button{
+    width: 10%;
+    border: black solid 0.2rem;
+    padding: 0.5rem;
+    font-family: Arial;
+    
+}
+body{
+    font-size: 1.3rem;
+    font-family: Arial;
+}
+html{
+    font-size: 62.5%;
+}
+.center{
+    width: 50%;
+    margin: 0px auto;
+    text-align: center;
+   background-color: aqua;
+}
